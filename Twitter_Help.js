@@ -93,7 +93,7 @@ intent("What can you do?", p => {
 
 
 
-
+//Alan popup on first time user clicks button
 
 onUserEvent((p, e) => {
     console.info('EVENT', e.event);
